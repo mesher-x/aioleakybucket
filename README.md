@@ -2,7 +2,11 @@
 
 ## Theory
 
-See `/doc` (TODO)
+### Presentations
+
+[continuous-time-counters.ipynb](https://github.com/QratorLabs/aioleakybucket/blob/master/doc/ru/continuous-time-counters.ipynb)
+
+[nginx-burst-rate-limits.ipynb](https://github.com/QratorLabs/aioleakybucket/blob/master/doc/ru/nginx-burst-rate-limits.ipynb)
 
 ## Usage
 
