@@ -4,9 +4,11 @@
 
 ### Presentations
 
-[continuous-time-counters.ipynb](https://github.com/QratorLabs/aioleakybucket/blob/master/doc/ru/continuous-time-counters.ipynb)
+Presentation on continuous time counters in python:
+[continuous-time-counters.ipynb](doc/ru/continuous-time-counters.ipynb)
 
-[nginx-burst-rate-limits.ipynb](https://github.com/QratorLabs/aioleakybucket/blob/master/doc/ru/nginx-burst-rate-limits.ipynb)
+Presentation on rate limitting in NGINX:
+[nginx-burst-rate-limits.ipynb](doc/ru/nginx-burst-rate-limits.ipynb)
 
 ## Usage
 
