@@ -4,11 +4,11 @@
 
 ### Presentations
 
-Presentation on continuous time counters in python:
-[continuous-time-counters.ipynb](doc/ru/continuous-time-counters.ipynb)
+[label]: https://img.shields.io/badge/language%20-Russian%20-red.svg?style=flat-square?
 
-Presentation on rate limitting in NGINX:
-[nginx-burst-rate-limits.ipynb](doc/ru/nginx-burst-rate-limits.ipynb)
+Presentation on continuous time counters in python: [continuous-time-counters.ipynb](doc/ru/continuous-time-counters.ipynb) ![][label]
+
+Presentation on rate limitting in NGINX: [nginx-burst-rate-limits.ipynb](doc/ru/nginx-burst-rate-limits.ipynb) ![][label]
 
 ## Usage
 
